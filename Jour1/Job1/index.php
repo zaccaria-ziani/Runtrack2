@@ -6,7 +6,7 @@ $str3="!";
 echo $str;
 echo $str2." LaPlateforme ".$str3;
 
-$val="64";
+$val=6+4;
 
 echo $val;
 
