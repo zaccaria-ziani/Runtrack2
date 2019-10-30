@@ -7,17 +7,18 @@ while ( $i <=6 )
 
 {
     if($tb[$i]%2==0)
-    {
+{
 
 echo $tb[$i]."est un nombre pair <br>";
 
-    }
-    else
-    {
+}
+
+else
+{
 
 echo $tb[$i]."est un nombre impair <br>";
 
-    }
+}
 
     $i = $i + 1 ;
 
