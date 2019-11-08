@@ -1,2 +1,1 @@
-SELECT SUM(superficie)
-FROM tables
+SELECT SUM(superficie) FROM etage
